@@ -1,0 +1,4 @@
+raw/
+imgcache/
+*.log
+__pycache__/
